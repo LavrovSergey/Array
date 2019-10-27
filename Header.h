@@ -1,0 +1,23 @@
+#pragma once
+#include<iostream>
+int a1();
+int a2();
+int a3();
+int a18();
+int a19();
+int a20();
+int a51();
+int a52();
+int a53();
+int a65();
+int a66(); 
+int a67();
+int a112();
+int a113();
+int a114();
+int a116();
+int a117();
+int a118();
+int a131();
+int a132();
+int a133();
